@@ -46,7 +46,7 @@ Your laptop may or may not have the exact specs as mine. Results may vary. If yo
 - Trackpoint
 - Webcam
 - Microphone
-- Display Brightness (Brightness Keys do not work but you can increase or decrease brightness in system settings)
+- Display Brightness (Have to set it in Keyboard Shortcuts in System Settings)
 - Sleep / Wake
 - Wifi - Use Heliport v1.5.0 or else KP when using stock wifi settings (airport.d)
 - Bluetooth
@@ -56,7 +56,7 @@ Your laptop may or may not have the exact specs as mine. Results may vary. If yo
 - HDMI - Haven't Tested
 - Thunderbolt 3 - Haven't Tested
 - microSD Card Reader - Haven't Tested
-- All FN Keys - F4-F12 doesn't do anything
+- All FN Keys - F7-F12 doesn't do anything
   
 # Bugs
 - ?
