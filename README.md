@@ -3,6 +3,8 @@
 
 This project is to give the X1C6 a complete and functional build of macOS Sonoma `14.2.1` using the guide from  [here](https://github.com/tylernguyen/x1c6-hackintosh) with modified ACPI and updated kexts.
 
+Using `MacbookPro15,2` SMBIOS
+
 ## My Specs
 **Model:** X1C6 [20KG]
 
@@ -63,6 +65,7 @@ Your laptop may or may not have the exact specs as mine. Results may vary. If yo
 
 # Pre-Installation
 1. Follow tylernguyen's [guide](https://tylernguyen.github.io/x1c6-hackintosh/).
+2. Generate SMBIOS for Macbook15,2
 
 ## Credits
 - tylernguyen https://github.com/tylernguyen/x1c6-hackintosh
