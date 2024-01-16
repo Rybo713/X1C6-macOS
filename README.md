@@ -16,7 +16,7 @@ Using `MacbookPro15,2` SMBIOS
 
 **RAM:** 2133MHz Samsung 16GB Dual Channel LPDDR3
 
-**Display:** 14" IPS Anti-Glare FHD, 1920x1080, 60Hz
+**Display:** 14" IPS Anti-Glare FHD Non-Touch, 1920x1080, 60Hz
 
 **Storage:** PCI-E x4 NVMe WD SN730 512GB
 
@@ -65,7 +65,7 @@ Your laptop may or may not have the exact specs as mine. Results may vary. If yo
 
 # Pre-Installation
 1. Follow tylernguyen's [guide](https://tylernguyen.github.io/x1c6-hackintosh/).
-2. Generate SMBIOS for Macbook15,2
+2. Generate SMBIOS for `MacbookPro15,2`
 
 ## Credits
 - tylernguyen https://github.com/tylernguyen/x1c6-hackintosh
