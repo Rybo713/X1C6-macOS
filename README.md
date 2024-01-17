@@ -22,9 +22,9 @@ Using `MacbookPro15,2` SMBIOS
 
 **Partition Type:** APFS
 
-**Wifi:** Intel Wireless AC8265
+**Wifi:** Intel Wireless AX210NGW
 
-**Bluetooth:** Intel Wireless AC8265
+**Bluetooth:** Intel Wireless AX210NGW
 
 **Bootloader:** OpenCore v0.9.7
 
