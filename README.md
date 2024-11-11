@@ -68,6 +68,10 @@ Your laptop may or may not have the exact specs as mine. Results may vary. If yo
 1. Follow tylernguyen's [guide](https://tylernguyen.github.io/x1c6-hackintosh/).
 2. Generate SMBIOS for `MacbookPro15,2`
 
+# Installing/Updating to macOS Sequoia 15.x from macOS Sonoma 14.x
+1. Replace current plist with config-for-Sequoia-install.plist (Remember to rename it back to config.plist)
+2. Update to macOS 15
+
 ## Credits
 - tylernguyen https://github.com/tylernguyen/x1c6-hackintosh
 - benbender https://github.com/benbender/x1c6-hackintosh
