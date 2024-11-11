@@ -1,7 +1,7 @@
 # macOS for ThinkPad X1 Carbon 6th Gen [20KG] (November 10, 2024)
 ![X1C6](https://psrefstuff.lenovo.com/syspool//Sys/Image/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_CT1_09.png)
 
-This project is to give the X1C6 a complete and functional build of macOS Sonoma `14.7.1` using the guide from  [here](https://github.com/tylernguyen/x1c6-hackintosh) with modified ACPI and updated kexts.
+This project is to give the X1C6 a complete and functional build of macOS Sequoia `15.1` using the guide from  [here](https://github.com/tylernguyen/x1c6-hackintosh) with modified ACPI and updated kexts.
 
 Using `MacbookPro15,2` SMBIOS
 
@@ -32,7 +32,8 @@ Using `MacbookPro15,2` SMBIOS
 Your laptop may or may not have the exact specs as mine. Results may vary. If you need help, please ask.
 
 ## Tested Configurations
-- macOS 14.2.1 - 14.7.1
+- macOS Sonoma 14.2.1 - 14.7.1
+- macOS Sequoia 15.1
 - BIOS 1.60
 
 # What Works
