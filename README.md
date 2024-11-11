@@ -1,7 +1,7 @@
-# macOS for ThinkPad X1 Carbon 6th Gen [20KG] (Janaury 14, 2024)
+# macOS for ThinkPad X1 Carbon 6th Gen [20KG] (November 10, 2024)
 ![X1C6](https://psrefstuff.lenovo.com/syspool//Sys/Image/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_CT1_09.png)
 
-This project is to give the X1C6 a complete and functional build of macOS Sonoma `14.2.1` using the guide from  [here](https://github.com/tylernguyen/x1c6-hackintosh) with modified ACPI and updated kexts.
+This project is to give the X1C6 a complete and functional build of macOS Sonoma `14.7.1` using the guide from  [here](https://github.com/tylernguyen/x1c6-hackintosh) with modified ACPI and updated kexts.
 
 Using `MacbookPro15,2` SMBIOS
 
@@ -26,13 +26,13 @@ Using `MacbookPro15,2` SMBIOS
 
 **Bluetooth:** Intel Wireless AX210NGW
 
-**Bootloader:** OpenCore v0.9.7
+**Bootloader:** OpenCore v1.0.2
 
 ## Note
 Your laptop may or may not have the exact specs as mine. Results may vary. If you need help, please ask.
 
 ## Tested Configurations
-- macOS 14.2.1
+- macOS 14.2.1 - 14.7.1
 - BIOS 1.60
 
 # What Works
@@ -59,9 +59,9 @@ Your laptop may or may not have the exact specs as mine. Results may vary. If yo
 - Thunderbolt 3 - Haven't Tested
 - microSD Card Reader - Haven't Tested
 - All FN Keys - F7-F12 doesn't do anything
-  
+
 # Bugs
-- ?
+- None
 
 # Pre-Installation
 1. Follow tylernguyen's [guide](https://tylernguyen.github.io/x1c6-hackintosh/).
